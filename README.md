@@ -5,7 +5,7 @@ If you want to use this tool, you should have basic knowledge.
 If you don't join my discord for support.
 
 #### Credits
-OhLookItsDerpy - Hand-made mail address list
+Ohlookitsderpy - Hand-made mail address list
 
 > Support: https://www.discord.gg/SV7DAE9
 
