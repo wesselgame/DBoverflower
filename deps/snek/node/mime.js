@@ -1,0 +1,1 @@
+"use strict";const mimes=require("./mimes.json"),mimeOfBuffer=require("./mimeOfBuffer.js");function lookupMime(e){return mimes[e.replace(/^\./,"")]||mimes.bin}function lookupBuffer(e){const m=mimeOfBuffer(e);return m?m.mime:mimes.bin}module.exports={buffer:lookupBuffer,lookup:lookupMime};

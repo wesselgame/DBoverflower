@@ -1,0 +1,14 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.3.0"
+  },
+  "name": "dboverflower",
+  "version": "0.0.1",
+  "description": "Spam a phishing site with logins so their database gets an overflow.",
+  "main": "index.js",
+  "repository": "https://www.github.com/PassTheWessel/DBoverflower",
+  "author": "Wessel Tip <discord@go2it.eu>",
+  "license": "MIT",
+  "private": false
+}
