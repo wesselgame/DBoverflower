@@ -1,5 +1,7 @@
 {
-  "dependencies": {},
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  },
   "devDependencies": {
     "eslint": "^5.3.0"
   },
